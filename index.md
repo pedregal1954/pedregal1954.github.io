@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[link to google](https://pedregal1954.github.io/mapa.ggb)
+[link to local file](https://pedregal1954.github.io/mapa.ggb)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
