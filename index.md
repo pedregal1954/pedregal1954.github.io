@@ -1,4 +1,4 @@
-## Welcome to GitHub Page.....s
+## Welcome to GitHub Page.....sccxxxcc
 
 You can use the [editor on GitHub](https://github.com/pedregal1954/pedregal1954.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[link to local file](https://pedregal1954.github.io/mapa.ggb)
+[link to local file](https://pedregal1954.github.io/spotkaniet.txt)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
