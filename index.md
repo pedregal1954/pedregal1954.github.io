@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-Przekształcenia geometryczne w programie Geogebra
+Przekształcenia geometryczne w programie Geogebrann
 
 [pobierz](https://pedregal1954.github.io/spotkaniet.txt)
 
