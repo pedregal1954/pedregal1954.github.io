@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 Przekształcenia geometryczne w programie Geogebrann
 
-[pobierz](https://pedregal1954.github.io/spotkaniet.txt)
+[pobierz](https://pedregal1954.github.io/gg.pdf)
 
 Przekształcenia geometryczne w programie Geogebra
 
