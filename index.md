@@ -27,6 +27,9 @@ Przekształcenia geometryczne w programie Geogebra
 
 [pobierz](https://pedregal1954.github.io/spotkaniet.txt)
 
+Przekształcenia geometryczne w programie Geogebra
+
+[pobierz](https://pedregal1954.github.io/spotkaniet.txt)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
